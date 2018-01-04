@@ -1,4 +1,4 @@
-# How to upload Custom Priority Icons?
+# How to upload Custom Priority Icons for JIRA?
 
 https://confluence.atlassian.com/jirakb/how-to-upload-custom-priority-icons-788961156.html
 
