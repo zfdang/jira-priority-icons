@@ -6,7 +6,8 @@ https://confluence.atlassian.com/jirakb/how-to-upload-custom-priority-icons-7889
 
 You are welcomed to use them in your own JIRA project.
 
-https://github.com/zfdang/jira-priority-icons/raw/master/p1.png
-https://github.com/zfdang/jira-priority-icons/raw/master/p2.png
-https://github.com/zfdang/jira-priority-icons/raw/master/p3.png
-https://github.com/zfdang/jira-priority-icons/raw/master/p4.png
+![P1](https://github.com/zfdang/jira-priority-icons/raw/master/p1.png)
+![P2](https://github.com/zfdang/jira-priority-icons/raw/master/p2.png)
+![P3](https://github.com/zfdang/jira-priority-icons/raw/master/p3.png)
+![P4](https://github.com/zfdang/jira-priority-icons/raw/master/p4.png)
+
